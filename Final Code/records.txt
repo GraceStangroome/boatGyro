@@ -1,0 +1,1721 @@
+Date/time: Wed, 31 Oct 2018 18:11:03 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 18:11:32 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:11:35 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:11:35 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:11:37 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:11:38 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:11:40 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:11:41 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:11:43 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:11:44 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:11:46 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:11:47 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:11:49 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:11:49 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:11:51 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:11:52 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:11:54 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:11:55 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:11:57 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:11:57 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:12:00 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:12:00 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:12:02 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:12:03 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:12:05 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:12:06 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:12:08 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:12:08 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:12:10 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:12:11 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:12:12 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 18:12:12 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 18:12:12 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 18:12:12 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 18:12:12 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 18:12:12 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 18:12:12 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 18:16:33 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 18:16:42 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 18:16:57 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 18:17:00 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:17:02 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:17:02 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:17:04 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:17:05 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:21:35 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 18:21:40 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 18:21:41 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 18:21:43 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 18:21:44 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 20:50:24 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 20:50:29 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 20:50:31 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 20:50:32 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 20:50:34 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 20:50:34 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 20:50:35 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 20:50:35 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 20:50:35 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 20:50:35 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 20:50:35 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 20:50:35 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 20:50:35 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 21:35:04 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 21:35:06 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:35:08 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 21:35:09 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:35:09 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:35:09 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 21:35:10 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 21:35:10 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 21:35:10 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 21:35:10 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 21:35:10 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 21:35:10 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 21:35:10 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 21:35:10 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:35:12 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 21:35:12 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:35:13 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:35:14 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 21:35:14 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 21:35:14 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 21:35:14 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 21:35:14 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 21:35:14 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 21:35:14 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 21:35:14 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 21:41:51 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 21:41:53 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:41:55 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 21:41:55 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:41:55 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 21:41:55 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 21:41:55 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 21:41:55 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 21:41:55 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 21:41:55 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 21:41:55 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 21:42:04 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:42:05 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:42:06 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:42:06 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:42:06 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 21:42:06 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:42:06 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:42:06 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 21:42:06 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 21:42:06 Information: program loop stopped because of The GPIO channel has not been set up as an OUTPUT. 
+Date/time: Wed, 31 Oct 2018 21:42:06 Information: program loop stopped because of The GPIO channel has not been set up as an OUTPUT. 
+Date/time: Wed, 31 Oct 2018 21:42:06 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:42:07 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:42:08 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 21:42:08 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 21:42:08 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:42:08 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:42:09 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 21:42:09 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:42:10 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 21:42:10 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 21:42:10 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 21:42:10 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 21:42:10 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 21:42:10 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 21:42:10 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 21:42:10 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 21:42:10 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 21:43:32 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 21:43:34 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:43:36 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 21:43:37 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:43:39 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 21:43:39 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 21:43:42 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 21:43:42 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:10:58 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:11:08 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:11:10 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 22:11:10 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 22:11:10 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 22:11:10 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 22:11:10 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 22:11:10 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 22:11:10 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 22:12:32 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 22:12:48 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:12:50 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:12:50 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:12:52 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:12:53 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:12:55 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:12:55 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 22:12:55 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 22:12:55 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 22:12:55 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 22:12:55 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 22:12:55 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 22:12:56 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:12:57 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 22:12:57 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 22:12:57 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 22:12:57 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 22:12:57 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 22:12:57 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 22:12:57 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 22:22:23 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:22:25 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:22:25 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 22:22:25 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 22:22:25 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 22:22:25 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 22:22:25 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 22:22:25 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 22:22:25 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 22:22:27 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:22:29 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 22:22:29 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 22:22:29 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 22:22:29 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 22:22:29 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 22:22:29 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 22:22:29 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 22:31:47 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:32:42 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:33:25 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:33:37 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:33:38 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:33:41 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:33:41 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:33:43 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:34:49 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:34:54 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:34:56 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:34:59 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:34:59 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:35:10 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:35:15 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:35:17 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:35:19 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:39:49 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:40:03 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:40:06 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:40:06 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:40:08 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:40:09 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:40:09 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:40:12 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:40:12 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:40:12 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:40:12 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:40:14 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:40:14 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:40:15 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:40:15 Information: program loop stopped because of The GPIO channel has not been set up as an OUTPUT. 
+Date/time: Wed, 31 Oct 2018 22:40:15 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:40:17 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:40:18 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:40:57 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:41:10 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:41:12 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:41:13 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:41:15 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:41:15 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:41:18 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:41:18 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:41:20 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:41:21 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:43:40 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:44:17 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:45:28 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:45:43 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:45:45 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:45:46 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:45:48 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:45:48 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:45:50 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:45:51 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:45:53 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:45:54 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:45:56 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:45:56 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:45:59 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:45:59 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:46:00 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 22:46:00 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 22:46:01 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 22:46:01 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 22:46:01 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 22:46:01 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 22:46:01 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 22:46:25 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:46:38 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:47:43 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:47:50 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:47:52 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:47:53 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:47:55 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:47:56 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:47:58 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:47:58 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:48:01 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:48:01 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:48:03 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:48:04 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:48:06 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:48:07 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:48:09 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:48:09 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:48:12 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:48:12 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:48:14 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:48:32 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:48:34 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:48:36 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:48:37 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:48:39 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:48:39 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:48:41 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 22:48:41 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 22:48:41 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 22:48:41 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 22:48:41 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 22:48:41 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 22:50:19 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:50:26 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:50:29 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:50:29 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:50:31 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:50:32 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:50:34 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:50:35 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:51:22 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:51:41 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:51:43 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:51:43 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:51:46 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:51:46 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:51:48 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:51:49 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:51:51 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:51:52 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:51:54 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:51:54 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:51:57 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 22:51:57 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:51:58 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 22:51:58 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 22:51:58 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 22:51:58 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 22:51:58 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 22:51:58 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 22:51:58 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 22:59:37 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 22:59:41 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:59:43 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 22:59:46 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:59:48 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 22:59:52 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:59:54 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 22:59:56 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 22:59:58 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 22:59:59 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:00:01 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:00:01 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:00:04 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:00:06 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:00:08 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:00:08 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:00:11 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:00:11 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:00:13 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:00:14 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:00:16 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:00:17 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:00:19 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:00:19 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:00:22 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:00:22 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:00:24 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:00:28 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:00:30 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:00:32 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:00:34 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:00:36 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:00:38 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:00:39 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:00:41 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:00:44 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:00:46 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:00:47 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:00:49 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:00:57 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:00:59 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:01:00 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:01:02 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:01:06 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:01:08 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:01:12 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:01:14 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:01:16 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:01:18 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:01:19 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:01:21 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:01:23 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:01:25 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:01:26 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:01:28 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:01:29 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:01:31 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:01:32 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:01:32 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 23:01:32 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 23:01:32 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 23:01:32 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 23:01:32 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 23:01:32 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 23:01:32 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 23:08:11 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 23:08:19 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:08:21 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:08:28 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 23:08:28 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 23:08:28 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 23:08:28 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 23:08:28 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 23:08:28 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 23:08:29 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 23:08:29 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 23:08:29 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 23:08:29 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 23:08:29 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 23:08:29 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 23:08:33 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:08:34 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 23:08:34 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 23:08:34 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 23:08:34 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 23:08:34 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 23:08:34 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 23:08:34 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 23:16:20 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 23:16:33 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:16:35 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:16:36 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:16:38 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:16:39 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:16:41 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:16:44 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:16:46 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:16:46 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:16:48 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:16:51 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:16:53 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:17:01 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:17:04 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:17:16 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 23:17:22 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 23:17:26 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:17:26 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:17:28 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:17:28 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:17:28 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:17:29 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 23:17:29 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:17:31 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:17:31 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:17:34 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:17:34 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:17:36 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:17:38 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:17:41 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:17:43 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:17:45 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:17:45 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 23:17:45 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 23:17:45 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 23:17:45 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 23:17:45 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 23:17:45 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 23:18:31 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 23:18:41 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:18:44 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:18:46 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:18:48 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:19:30 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 23:21:32 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 23:21:35 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:21:37 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:21:40 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:21:42 Information: motor turned anticlockwise 
+Date/time: Wed, 31 Oct 2018 23:21:42 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:21:42 Information: setting down pin 17 
+Date/time: Wed, 31 Oct 2018 23:21:42 Information: setting down pin 18 
+Date/time: Wed, 31 Oct 2018 23:21:42 Information: setting down pin 14 
+Date/time: Wed, 31 Oct 2018 23:21:42 Information: setting down pin 15 
+Date/time: Wed, 31 Oct 2018 23:21:42 Information: cleaned gpio pins for motor 
+Date/time: Wed, 31 Oct 2018 23:21:42 Information: program quit. 
+Date/time: Wed, 31 Oct 2018 23:21:42 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Wed, 31 Oct 2018 23:22:32 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 23:22:39 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:22:41 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:22:41 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:22:44 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:22:44 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:22:46 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:22:47 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:22:49 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:22:50 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:25:11 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 23:27:28 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 23:27:32 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 23:27:37 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:27:39 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:27:39 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:27:42 Information: motor turned clockwise 
+Date/time: Wed, 31 Oct 2018 23:27:42 Information: pins set up. 
+Date/time: Wed, 31 Oct 2018 23:41:14 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 23:42:10 Information: gyroscope and accelerometer read. 
+Date/time: Wed, 31 Oct 2018 23:42:51 Information: gyroscope and accelerometer read. 
+Date/time: Thu, 01 Nov 2018 00:14:01 Information: gyroscope and accelerometer read. 
+Date/time: Thu, 01 Nov 2018 00:23:29 Information: pins set up. 
+Date/time: Thu, 01 Nov 2018 00:23:31 Information: motor turned anticlockwise 
+Date/time: Thu, 01 Nov 2018 00:23:34 Information: pins set up. 
+Date/time: Thu, 01 Nov 2018 00:23:36 Information: motor turned anticlockwise 
+Date/time: Thu, 01 Nov 2018 00:23:38 Information: setting down pin 17 
+Date/time: Thu, 01 Nov 2018 00:23:38 Information: setting down pin 18 
+Date/time: Thu, 01 Nov 2018 00:23:38 Information: setting down pin 14 
+Date/time: Thu, 01 Nov 2018 00:23:38 Information: setting down pin 15 
+Date/time: Thu, 01 Nov 2018 00:23:38 Information: cleaned gpio pins for motor 
+Date/time: Thu, 01 Nov 2018 00:23:38 Information: program quit. 
+Date/time: Thu, 01 Nov 2018 00:23:38 Information: pins set up. 
+Date/time: Thu, 01 Nov 2018 00:23:40 Information: motor turned anticlockwise 
+Date/time: Thu, 01 Nov 2018 00:23:48 Information: setting down pin 17 
+Date/time: Thu, 01 Nov 2018 00:23:48 Information: setting down pin 18 
+Date/time: Thu, 01 Nov 2018 00:23:48 Information: setting down pin 14 
+Date/time: Thu, 01 Nov 2018 00:23:48 Information: setting down pin 15 
+Date/time: Thu, 01 Nov 2018 00:23:48 Information: cleaned gpio pins for motor 
+Date/time: Thu, 01 Nov 2018 00:23:48 Information: program quit. 
+Date/time: Thu, 01 Nov 2018 00:23:48 Information: pins set up. 
+Date/time: Thu, 01 Nov 2018 00:23:49 Information: setting down pin 17 
+Date/time: Thu, 01 Nov 2018 00:23:49 Information: setting down pin 18 
+Date/time: Thu, 01 Nov 2018 00:23:49 Information: setting down pin 14 
+Date/time: Thu, 01 Nov 2018 00:23:49 Information: setting down pin 15 
+Date/time: Thu, 01 Nov 2018 00:23:49 Information: cleaned gpio pins for motor 
+Date/time: Thu, 01 Nov 2018 00:23:49 Information: program quit. 
+Date/time: Thu, 01 Nov 2018 00:23:49 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 18 Nov 2018 15:42:21 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 18 Nov 2018 15:42:41 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 18 Nov 2018 16:31:52 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 18 Nov 2018 16:38:25 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 18 Nov 2018 16:44:55 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 18 Nov 2018 18:03:38 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 18 Nov 2018 18:03:54 Information: error occured: [Errno 121] Remote I/O error 
+Date/time: Sun, 18 Nov 2018 18:03:54 Information: program loop stopped because of unorderable types: NoneType() < int(). 
+Date/time: Sun, 18 Nov 2018 18:04:02 Information: setting down pin 17 
+Date/time: Sun, 18 Nov 2018 18:43:38 Information: error occured: [Errno 121] Remote I/O error 
+Date/time: Sun, 18 Nov 2018 18:45:40 Information: error occured: [Errno 121] Remote I/O error 
+Date/time: Sun, 18 Nov 2018 18:46:00 Information: error occured: [Errno 121] Remote I/O error 
+Date/time: Sun, 18 Nov 2018 18:48:54 Information: error occured: [Errno 121] Remote I/O error 
+Date/time: Sun, 18 Nov 2018 18:49:15 Information: error occured: [Errno 121] Remote I/O error 
+Date/time: Sun, 18 Nov 2018 18:49:49 Information: error occured: [Errno 121] Remote I/O error 
+Date/time: Sun, 18 Nov 2018 18:50:27 Information: error occured: [Errno 121] Remote I/O error 
+Date/time: Sun, 18 Nov 2018 18:53:53 Information: error occured: [Errno 121] Remote I/O error 
+Date/time: Sun, 18 Nov 2018 18:55:00 Information: error occured: [Errno 121] Remote I/O error 
+Date/time: Sun, 18 Nov 2018 18:55:20 Information: error occured: [Errno 121] Remote I/O error 
+Date/time: Sun, 18 Nov 2018 18:57:06 Information: error occured: [Errno 121] Remote I/O error 
+Date/time: Sun, 18 Nov 2018 18:57:25 Information: error occured: [Errno 121] Remote I/O error 
+Date/time: Sun, 18 Nov 2018 19:18:53 Information: error occured: [Errno 121] Remote I/O error 
+Date/time: Sun, 18 Nov 2018 19:20:17 Information: setting down pin 17 
+Date/time: Sun, 18 Nov 2018 19:20:17 Information: setting down pin 18 
+Date/time: Sun, 18 Nov 2018 19:20:17 Information: setting down pin 14 
+Date/time: Sun, 18 Nov 2018 19:20:17 Information: setting down pin 15 
+Date/time: Sun, 18 Nov 2018 19:20:17 Information: cleaned gpio pins for motor 
+Date/time: Sun, 18 Nov 2018 19:20:17 Information: program quit. 
+Date/time: Sun, 18 Nov 2018 19:20:20 Information: setting down pin 17 
+Date/time: Sun, 18 Nov 2018 19:20:20 Information: setting down pin 18 
+Date/time: Sun, 18 Nov 2018 19:20:20 Information: setting down pin 14 
+Date/time: Sun, 18 Nov 2018 19:20:20 Information: setting down pin 15 
+Date/time: Sun, 18 Nov 2018 19:20:20 Information: cleaned gpio pins for motor 
+Date/time: Sun, 18 Nov 2018 19:20:20 Information: program quit. 
+Date/time: Sun, 18 Nov 2018 19:22:07 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 18 Nov 2018 19:23:20 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 18 Nov 2018 19:23:45 Information: setting down pin 17 
+Date/time: Sun, 18 Nov 2018 19:23:45 Information: setting down pin 18 
+Date/time: Sun, 18 Nov 2018 19:23:45 Information: setting down pin 14 
+Date/time: Sun, 18 Nov 2018 19:23:45 Information: setting down pin 15 
+Date/time: Sun, 18 Nov 2018 19:23:45 Information: cleaned gpio pins for motor 
+Date/time: Sun, 18 Nov 2018 19:23:45 Information: program quit. 
+Date/time: Sun, 18 Nov 2018 19:26:37 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 18 Nov 2018 19:26:38 Information: pins set up. 
+Date/time: Sun, 18 Nov 2018 19:26:41 Information: motor turned anticlockwise 
+Date/time: Sun, 18 Nov 2018 19:26:41 Information: pins set up. 
+Date/time: Sun, 18 Nov 2018 19:26:43 Information: motor turned anticlockwise 
+Date/time: Sun, 18 Nov 2018 19:26:44 Information: pins set up. 
+Date/time: Sun, 18 Nov 2018 19:26:46 Information: motor turned anticlockwise 
+Date/time: Sun, 18 Nov 2018 19:26:47 Information: pins set up. 
+Date/time: Sun, 18 Nov 2018 19:26:48 Information: setting down pin 17 
+Date/time: Sun, 18 Nov 2018 19:26:48 Information: setting down pin 18 
+Date/time: Sun, 18 Nov 2018 19:26:48 Information: setting down pin 14 
+Date/time: Sun, 18 Nov 2018 19:26:48 Information: setting down pin 15 
+Date/time: Sun, 18 Nov 2018 19:26:48 Information: cleaned gpio pins for motor 
+Date/time: Sun, 18 Nov 2018 19:26:48 Information: program quit. 
+Date/time: Sun, 18 Nov 2018 19:26:48 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 11:11:38 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 11:15:42 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 11:18:46 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 11:23:15 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 11:26:37 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 11:43:44 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 11:43:56 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 11:44:07 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 11:45:37 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 11:50:24 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 11:51:34 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 11:54:04 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 11:58:50 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 12:00:59 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 12:03:03 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 12:05:59 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 12:10:30 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 12:12:21 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 12:20:22 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 12:23:36 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 12:24:22 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 12:24:52 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 12:25:43 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 12:37:07 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 12:38:52 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 12:45:58 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 12:50:43 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 12:52:11 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 13:00:35 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 15:17:36 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 15:20:01 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 15:20:07 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:20:09 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:20:12 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:20:14 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:20:17 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:20:19 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:20:22 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:20:24 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:20:25 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:20:27 Information: motor turned clockwise 
+Date/time: Sun, 09 Dec 2018 15:20:31 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:21:21 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 15:21:27 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:21:27 Information: program loop stopped because of The GPIO channel has not been set up as an OUTPUT. 
+Date/time: Sun, 09 Dec 2018 15:21:27 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:21:27 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:21:29 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 15:21:29 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:21:29 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:21:30 Information: program loop stopped because of The GPIO channel has not been set up as an OUTPUT. 
+Date/time: Sun, 09 Dec 2018 15:21:33 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:21:35 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:21:37 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:21:40 Information: motor turned clockwise 
+Date/time: Sun, 09 Dec 2018 15:21:41 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:23:27 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 15:23:28 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:23:30 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:23:34 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:23:36 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:23:37 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:23:39 Information: motor turned clockwise 
+Date/time: Sun, 09 Dec 2018 15:23:45 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:24:19 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 15:24:28 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:24:30 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:24:31 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:24:33 Information: motor turned clockwise 
+Date/time: Sun, 09 Dec 2018 15:24:36 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:24:39 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:24:43 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:24:45 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:24:46 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:24:48 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:24:50 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:25:21 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 15:25:27 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:25:29 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:25:34 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:25:36 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:25:39 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:25:41 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:25:42 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:26:36 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 15:26:42 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 15:26:42 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 15:26:42 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 15:26:42 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 15:26:42 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 15:26:42 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 15:26:45 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:26:47 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:26:54 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:26:56 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:26:57 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:26:59 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:27:00 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:27:02 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:51:56 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 15:52:03 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:52:05 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:52:07 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 15:52:07 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 15:52:07 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 15:52:07 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 15:52:07 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 15:52:07 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 15:52:12 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:52:14 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:52:19 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:52:21 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:52:22 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:53:01 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 15:53:04 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:53:05 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 15:53:05 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 15:53:05 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 15:53:05 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 15:53:05 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 15:53:05 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 15:53:05 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 15:53:08 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:53:10 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 15:53:11 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 15:53:11 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 15:53:11 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 15:53:11 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 15:53:11 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 15:53:11 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 15:53:15 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 15:53:15 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 15:53:15 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 15:53:15 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 15:53:15 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 15:53:15 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 15:53:16 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 15:53:16 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 15:53:16 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 15:53:16 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 15:53:16 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 15:53:16 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 15:53:18 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 15:53:19 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 15:53:19 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 15:53:19 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 15:53:19 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 15:53:19 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 15:53:19 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 15:53:19 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 15:53:51 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:06:11 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:06:22 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:06:26 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:06:27 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:06:27 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:06:27 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:06:27 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:06:27 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:06:27 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:06:27 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 16:07:05 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:07:07 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:07:09 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:07:09 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:07:09 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:07:09 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:07:09 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:07:09 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:07:09 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:07:10 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:07:13 Information: motor turned clockwise 
+Date/time: Sun, 09 Dec 2018 16:07:15 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:07:17 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:07:17 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:07:20 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:07:21 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:07:23 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:07:47 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:07:50 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:07:53 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:07:53 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:07:53 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:07:53 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:07:53 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:07:53 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:07:53 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:07:56 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:07:57 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:07:57 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:07:57 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:07:57 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:07:57 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:07:57 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:07:57 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 16:10:08 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:10:13 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:10:13 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:10:13 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:10:13 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:10:13 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:10:13 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:10:14 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:10:14 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:10:14 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:10:14 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:10:14 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:10:14 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:10:14 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:10:15 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 16:10:41 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:10:47 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:10:48 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:10:48 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:10:48 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:10:48 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:10:48 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:10:48 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:10:48 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 16:11:39 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:12:03 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:12:05 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:12:05 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:12:05 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:12:05 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:12:05 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:12:05 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:12:05 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 16:12:30 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:12:30 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:12:30 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:12:30 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:12:30 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:12:30 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:12:34 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:12:34 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:12:34 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:12:34 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:12:34 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:12:34 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:12:36 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:12:36 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:12:36 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:12:36 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:12:36 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:12:36 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:12:36 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:12:36 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 16:16:05 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:16:18 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:16:18 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:16:18 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:16:18 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:16:18 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:16:18 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:16:20 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:16:20 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:16:20 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:16:20 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:16:20 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:16:20 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:16:22 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:16:22 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:16:22 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:16:22 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:16:22 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:16:22 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:16:23 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:16:23 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:16:23 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:16:23 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:16:23 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:16:23 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:16:24 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:16:25 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:16:25 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:16:25 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:16:25 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:16:25 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:16:25 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:16:25 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 16:17:51 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:17:54 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:17:56 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:17:56 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:17:56 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:17:56 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:17:56 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:17:56 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:17:56 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 16:21:00 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:21:06 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:21:06 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:21:06 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:21:06 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:21:06 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:21:06 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:21:06 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:21:06 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 16:21:40 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:21:46 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:21:54 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:21:54 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:21:54 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:21:54 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:21:54 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:21:54 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:21:54 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:21:55 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:21:55 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:21:55 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:21:55 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:21:55 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:21:55 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:21:55 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 16:25:38 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:25:44 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:25:46 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:25:46 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:25:46 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:25:46 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:25:46 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:25:46 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:25:46 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 16:26:38 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:26:42 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:26:44 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:26:44 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:26:47 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:26:47 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:26:47 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:26:47 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:26:47 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:26:47 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:26:47 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:26:47 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:26:48 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:26:48 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:26:48 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:26:48 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:26:48 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:26:48 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:26:48 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 16:34:27 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:34:40 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:34:43 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:34:45 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:34:46 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:34:46 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:34:46 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:34:46 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:34:46 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:34:46 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:34:46 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 16:34:54 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:37:27 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:37:29 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:37:32 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:37:34 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:37:35 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:37:37 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:37:40 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:37:42 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:37:44 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:37:46 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:37:46 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:37:48 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:37:50 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:37:52 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:37:56 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:37:58 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:37:58 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:38:01 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:38:05 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:38:07 Information: motor turned clockwise 
+Date/time: Sun, 09 Dec 2018 16:38:11 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:38:13 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:38:13 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:38:16 Information: motor turned clockwise 
+Date/time: Sun, 09 Dec 2018 16:38:16 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:38:18 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:38:19 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:38:21 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:38:24 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:38:27 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:38:27 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:38:30 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 16:38:30 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:38:30 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:38:30 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:38:30 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:38:30 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:38:30 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:38:33 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:38:34 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:38:34 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:38:34 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:38:34 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:38:34 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:38:34 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:38:34 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 16:46:15 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 16:46:20 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:46:22 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:46:22 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:46:22 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:46:22 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:46:22 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:46:22 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:46:22 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 16:46:27 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:46:27 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:46:27 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:46:27 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:46:27 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:46:27 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:46:28 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 16:46:29 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 16:46:29 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 16:46:29 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 16:46:29 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 16:46:29 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 16:46:29 Information: program quit. 
+Date/time: Sun, 09 Dec 2018 16:46:29 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 20:35:08 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 20:35:46 Information: program quit 
+Date/time: Sun, 09 Dec 2018 20:38:23 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 20:38:24 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 20:38:26 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 20:38:26 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 20:38:26 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 20:38:26 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 20:38:26 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 20:38:26 Information: program stopped by user 
+Date/time: Sun, 09 Dec 2018 20:38:26 Information: current process data log deleted 
+Date/time: Sun, 09 Dec 2018 20:38:26 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 20:40:43 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 20:41:17 Information: program quit 
+Date/time: Sun, 09 Dec 2018 20:41:52 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 20:42:16 Information: program quit 
+Date/time: Sun, 09 Dec 2018 20:43:53 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 20:45:00 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 20:45:21 Information: program quit 
+Date/time: Sun, 09 Dec 2018 20:45:47 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 20:46:16 Information: program quit 
+Date/time: Sun, 09 Dec 2018 20:53:37 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 20:55:22 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 20:59:23 Information: program quit 
+Date/time: Sun, 09 Dec 2018 23:19:32 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 23:19:34 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:19:36 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:19:37 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:19:39 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:19:39 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:19:41 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:19:43 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:19:45 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:19:45 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:19:47 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:19:48 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:19:50 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:19:51 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:19:53 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:19:53 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:19:56 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:19:56 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:19:59 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:19:59 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:01 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:02 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:04 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:05 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:07 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:08 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:10 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:11 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:13 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:13 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:16 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:16 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:18 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:19 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:21 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:22 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:24 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:25 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:28 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:28 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:30 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:31 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:33 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:34 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:36 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:36 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:39 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:39 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:41 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:42 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:44 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:45 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:47 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:47 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:49 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:50 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:52 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:53 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:55 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:55 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:20:58 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:20:58 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:21:00 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:21:01 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:21:03 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:21:04 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:21:06 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:21:07 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:21:09 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:21:09 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:21:12 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:21:12 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:21:14 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:21:15 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:21:16 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 23:21:16 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 23:21:16 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 23:21:16 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 23:21:16 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 23:21:16 Information: program stopped by user 
+Date/time: Sun, 09 Dec 2018 23:21:16 Information: current process data log deleted 
+Date/time: Sun, 09 Dec 2018 23:21:16 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 23:21:18 Information: program quit 
+Date/time: Sun, 09 Dec 2018 23:22:16 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 23:22:18 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:22:19 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 23:22:19 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 23:22:19 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 23:22:19 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 23:22:19 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 23:22:19 Information: program stopped by user 
+Date/time: Sun, 09 Dec 2018 23:22:19 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 23:22:19 Information: current process data log deleted 
+Date/time: Sun, 09 Dec 2018 23:22:20 Information: program quit 
+Date/time: Sun, 09 Dec 2018 23:22:23 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 23:22:26 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:22:28 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:22:29 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:22:31 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:22:31 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:22:34 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:22:34 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:22:36 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:22:37 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:22:39 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:22:40 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:22:42 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:22:43 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:22:45 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:22:46 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:22:48 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:22:48 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:22:50 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:22:52 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:22:54 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:22:54 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:22:56 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:22:57 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:22:59 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:00 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:02 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:03 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:05 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:06 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:08 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:09 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:11 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:11 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:14 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:14 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:16 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:17 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:19 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:20 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:22 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:22 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:24 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:25 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:27 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:28 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:30 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:30 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:33 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:34 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:36 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:38 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:40 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:40 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:42 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:43 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:45 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:46 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:48 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:48 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:51 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:51 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:53 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:54 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:56 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:57 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:23:59 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:23:59 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:24:02 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:24:03 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:24:05 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:24:06 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:24:08 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:24:09 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:24:11 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:24:11 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:24:14 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:24:14 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:24:16 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:24:17 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:24:19 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:24:20 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:24:22 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:24:22 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:24:23 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 23:24:23 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 23:24:23 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 23:24:23 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 23:24:23 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 23:24:23 Information: program stopped by user 
+Date/time: Sun, 09 Dec 2018 23:24:23 Information: current process data log deleted 
+Date/time: Sun, 09 Dec 2018 23:24:23 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 23:24:35 Information: program quit 
+Date/time: Sun, 09 Dec 2018 23:29:57 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 23:30:26 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:30:28 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 23:30:28 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 23:30:28 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 23:30:28 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 23:30:28 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 23:30:28 Information: program stopped by user 
+Date/time: Sun, 09 Dec 2018 23:30:28 Information: current process data log deleted 
+Date/time: Sun, 09 Dec 2018 23:30:28 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 23:31:10 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 23:31:10 Information: program quit 
+Date/time: Sun, 09 Dec 2018 23:31:18 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 23:31:22 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:31:24 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:31:24 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:31:25 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 23:31:25 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 23:31:25 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 23:31:25 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 23:31:25 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 23:31:25 Information: program stopped by user 
+Date/time: Sun, 09 Dec 2018 23:31:25 Information: current process data log deleted 
+Date/time: Sun, 09 Dec 2018 23:31:25 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 23:32:41 Information: program quit 
+Date/time: Sun, 09 Dec 2018 23:32:45 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 23:32:47 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:32:49 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:32:50 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:32:51 Information: setting down pin 17 
+Date/time: Sun, 09 Dec 2018 23:32:51 Information: setting down pin 18 
+Date/time: Sun, 09 Dec 2018 23:32:51 Information: setting down pin 14 
+Date/time: Sun, 09 Dec 2018 23:32:51 Information: setting down pin 15 
+Date/time: Sun, 09 Dec 2018 23:32:51 Information: cleaned gpio pins for motor 
+Date/time: Sun, 09 Dec 2018 23:32:51 Information: program stopped by user 
+Date/time: Sun, 09 Dec 2018 23:32:51 Information: current process data log deleted 
+Date/time: Sun, 09 Dec 2018 23:32:51 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Sun, 09 Dec 2018 23:38:57 Information: program quit 
+Date/time: Sun, 09 Dec 2018 23:39:00 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 23:39:01 Information: program quit 
+Date/time: Sun, 09 Dec 2018 23:39:03 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 23:51:16 Information: program quit 
+Date/time: Sun, 09 Dec 2018 23:57:36 Information: gyroscope and accelerometer read. 
+Date/time: Sun, 09 Dec 2018 23:57:38 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:57:40 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:57:40 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:57:43 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:57:43 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:57:45 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:57:46 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:57:48 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:57:49 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:57:52 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:57:53 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:57:55 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:57:55 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:57:58 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:57:58 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:00 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:01 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:03 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:04 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:06 Information: motor turned clockwise 
+Date/time: Sun, 09 Dec 2018 23:58:07 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:09 Information: motor turned clockwise 
+Date/time: Sun, 09 Dec 2018 23:58:10 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:12 Information: motor turned clockwise 
+Date/time: Sun, 09 Dec 2018 23:58:13 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:15 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:15 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:18 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:18 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:20 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:21 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:24 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:24 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:27 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:28 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:30 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:31 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:33 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:33 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:36 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:36 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:38 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:39 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:41 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:42 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:44 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:45 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:47 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:47 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:50 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:50 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:52 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:53 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:55 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:56 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:58:58 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:58:58 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:59:01 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:59:01 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:59:05 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:59:06 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:59:08 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:59:09 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:59:11 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:59:11 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:59:14 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:59:14 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:59:16 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:59:17 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:59:19 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:59:20 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:59:22 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:59:23 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:59:25 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:59:25 Information: pins set up. 
+Date/time: Sun, 09 Dec 2018 23:59:28 Information: motor turned anticlockwise 
+Date/time: Sun, 09 Dec 2018 23:59:28 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:01 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:02 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:04 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:04 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:07 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:08 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:10 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:11 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:13 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:14 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:16 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:17 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:19 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:19 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:22 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:22 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:24 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:25 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:27 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:28 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:00 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:01 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:03 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:04 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:06 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:06 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:09 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:09 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:11 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:12 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:14 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:15 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:17 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:18 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:20 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:20 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:23 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:23 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:25 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:26 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:28 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:29 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:31 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:31 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:34 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:34 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:34:37 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:34:37 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:01 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:02 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:04 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:05 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:07 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:08 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:10 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:10 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:13 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:13 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:15 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:16 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:18 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:19 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:21 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:22 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:24 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:24 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:27 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:27 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:29 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:30 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:32 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:33 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:35 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:36 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:38 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:38 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:41 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:41 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:43 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:44 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:46 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:47 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:49 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:50 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:52 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:53 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:55 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:56 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:35:58 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:35:58 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:01 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:01 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:03 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:04 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:06 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:07 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:09 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:10 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:12 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:12 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:15 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:15 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:17 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:18 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:20 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:21 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:23 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:23 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:26 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:26 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:29 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:29 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:31 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:33 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:35 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:36 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:38 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:39 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:41 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:41 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:44 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:44 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:46 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:47 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:49 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:50 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:52 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:53 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:55 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:56 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:36:58 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:36:58 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:01 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:01 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:04 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:04 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:06 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:07 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:09 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:10 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:12 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:13 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:15 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:15 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:18 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:18 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:20 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:21 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:23 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:24 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:26 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:27 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:29 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:29 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:32 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:32 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:34 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:35 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:37 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:38 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:40 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:41 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:43 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:43 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:46 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:46 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:48 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:49 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:51 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:52 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:54 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:54 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:37:57 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:37:57 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:00 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:00 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:02 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:04 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:06 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:06 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:09 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:09 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:11 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:12 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:14 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:15 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:17 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:18 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:20 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:20 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:23 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:24 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:26 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:27 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:29 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:29 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:32 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:32 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:34 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:35 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:37 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:38 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:40 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:40 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:43 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:43 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:46 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:46 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:48 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:49 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:51 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:52 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:54 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:54 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:38:57 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:38:57 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:00 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:00 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:02 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:03 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:05 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:06 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:08 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:08 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:11 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:11 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:13 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:14 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:16 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:17 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:19 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:20 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:22 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:23 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:25 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:25 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:28 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:28 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:30 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:31 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:33 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:34 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:36 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:37 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:39 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:39 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:42 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:42 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:44 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:45 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:47 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:48 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:50 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:51 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:53 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:53 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:56 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:56 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:39:58 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:39:59 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:01 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:02 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:04 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:04 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:07 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:07 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:10 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:10 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:13 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:13 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:15 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:16 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:18 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:19 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:21 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:22 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:24 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:24 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:27 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:27 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:30 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:30 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:32 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:33 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:35 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:36 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:38 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:38 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:41 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:41 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:44 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:45 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:47 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:48 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:50 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:50 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:53 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:53 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:55 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:56 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:40:58 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:40:59 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:01 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:01 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:04 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:04 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:06 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:07 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:09 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:10 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:12 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:13 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:15 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:16 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:18 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:18 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:21 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:21 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:23 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:24 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:26 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:27 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:29 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:30 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:32 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:32 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:35 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:35 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:37 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:38 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:40 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:41 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:43 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:43 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:46 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:46 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:48 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:49 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:51 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:52 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:54 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:55 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:41:57 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:41:57 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:00 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:00 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:02 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:03 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:05 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:06 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:08 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:08 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:11 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:11 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:13 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:14 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:16 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:17 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:19 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:20 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:22 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:23 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:25 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:26 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:28 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:28 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:31 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:32 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:34 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:34 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:37 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:37 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:39 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:40 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:42 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:43 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:45 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:45 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:48 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:48 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:51 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:51 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:53 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:54 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:56 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:57 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:42:59 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:42:59 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:43:02 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:43:02 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:43:04 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:43:05 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:43:07 Information: motor turned anticlockwise 
+Date/time: Mon, 10 Dec 2018 20:43:08 Information: pins set up. 
+Date/time: Mon, 10 Dec 2018 20:43:09 Information: setting down pin 17 
+Date/time: Mon, 10 Dec 2018 20:43:09 Information: setting down pin 18 
+Date/time: Mon, 10 Dec 2018 20:43:09 Information: setting down pin 14 
+Date/time: Mon, 10 Dec 2018 20:43:09 Information: setting down pin 15 
+Date/time: Mon, 10 Dec 2018 20:43:09 Information: cleaned gpio pins for motor 
+Date/time: Mon, 10 Dec 2018 20:43:09 Information: program loop stopped because of Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM). 
+Date/time: Mon, 10 Dec 2018 20:43:09 Information: program stopped by user 
+Date/time: Mon, 10 Dec 2018 20:43:09 Information: current process data log deleted 
+Date/time: Mon, 10 Dec 2018 21:05:56 Information: program quit 
